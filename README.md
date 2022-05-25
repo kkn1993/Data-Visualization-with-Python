@@ -1,0 +1,2 @@
+# Data-Visualization-with-Python
+This repo is from the IBM specialization module which helped me to learn about data visualization and some of the best practices to keep in mind when creating plots and visuals. I learned about the history and the architecture of Matplotlib and basic plotting with Matplotlib. I also learned how to read csv files into a pandas dataframe and process and manipulate the data in the dataframe, and how to generate line plots using Matplotlib.
